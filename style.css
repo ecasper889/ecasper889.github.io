@@ -4,3 +4,13 @@ background-color: #F7CCF9;
 margin: 40 px;
 padding: 15px;
 } 
+
+body.page-Food main p{
+  color: navy;
+}
+body{
+  margin: 75 px;
+  padding: 35 px;
+}
+  
+
