@@ -1,16 +1,16 @@
 body{ 
 font family: "Georgia", serif; 
 background-color: #F7CCF9;
-margin: 40 px;
+margin: 40px;
 padding: 15px;
 } 
 
-body.page-Food main p{
+body.page-food main p {
   color: navy;
 }
 body{
-  margin: 75 px;
-  padding: 35 px;
+  margin: 75px;
+  padding: 35px;
 }
   
 
